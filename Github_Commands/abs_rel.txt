@@ -1,0 +1,1 @@
+Absolute Path is the complete path to a file or directory from the root directory while Relative  path specifies the location of a file or directory relative to the current working directory.

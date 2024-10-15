@@ -1,0 +1,5 @@
+to modify it, 6 means read write rw-
+4 means r--
+4 means r--
+so to modify it so the owner can read write and group and others read respectively we would use the chmod command
+chmod 644 <filename>

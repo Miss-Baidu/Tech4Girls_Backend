@@ -1,0 +1,6 @@
+File ownership in Linux refers to the association of a file or directory with a specific user and group.
+Read 'r' - allows the user view content
+Write 'w' - allows the user to modify or make changes to the file
+Execute'x' -allows the user to execute the content of the file if possible
+Permissions can be viewed as -rwx with the first - meaning its a file and if its starts with a d a directory
+the owner of the file gives the permission to the group of others for them to either read ,write or execute.
