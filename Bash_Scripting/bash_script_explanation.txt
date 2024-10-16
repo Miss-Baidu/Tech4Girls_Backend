@@ -1,0 +1,7 @@
+A Bash script is a file containing a series of commands that are executed by the Bash program line by line.
+touch <filename>.sh
+open the script by selecting it from explorer section
+in the script you type
+#!/bin/Bash
+inside the script you can use the echo command for the scriot to echo somthing out like
+echo "Hello, world"
