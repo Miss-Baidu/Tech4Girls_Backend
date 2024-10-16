@@ -1,0 +1,11 @@
+The first(-) character tells you it's a file
+The rw-r--r-- represents the file permission into the respective three groups
+The rw- is the owner permission, meaning the owner has read and write permission but has no execution permission
+The r-- is the group permission, meaning the group has only read permissionbut no write and execution permission
+The last r-- is the other permission, meaning the group has only read permissionbut no write and execution permission
+The 1 indicates the number of links in the file
+The first userhacsa shows the file username of the  owner
+The second userhacsa shows the file username of the group
+The 70 shows the file size 
+Oct 14 10:00 shows the last time and date the file was modified
+script.sh shows the name of the file
