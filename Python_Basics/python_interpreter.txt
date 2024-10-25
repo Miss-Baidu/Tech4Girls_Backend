@@ -1,0 +1,8 @@
+Open a Terminal window.
+Type python3 and press Enter.
+
+a = 5
+b = 7
+sum = a + b
+print(sum)
+This would give you an input of 12
