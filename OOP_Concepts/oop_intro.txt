@@ -1,0 +1,23 @@
+Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around "objects", self-contained units that contain both data that is the (attributes) and methods that is the (functions or procedures). 
+
+Encapsulation is the concept of bundling the data (attributes) and methods (functions) that operate on the data into a single unit, called a class.
+Exmaple
+Consider a smartphone. The smartphone has attributes like battery level and storage capacity, but these attributes are not directly accessible to the user. Instead, the user interacts with methods like check_battery() or clear_storage()
+
+Abstraction hides complex implementation details and shows only the essential features of an object.
+Exmaple
+Think of an elevator. You press a button to go to a specific floor, but you don't need to understand how the elevator works internally 
+
+Inheritance is the mechanism by which one class can inherit attributes and methods from another class.
+Exmaple
+ A Horse is an animal, so you could create a Dog class that inherits from a more general Animal class. The Horse class would inherit general properties like name and age, but it could also have specific methods like sprint or walk for hours that are unique to dogs.
+
+Polymorphism allows different objects to be treated as instances of the same class through a common interface.
+Exmaple
+ A fruit can be an abstract class with a method draw(). An orange and apple class can both implement this method, but each one would draw a different fruits. Despite using the same method name, the behavior differs depending on the object.
+
+OOP is benefical because;
+It  allows developers to break down complex software systems into smaller, manageable components.
+Through inheritance, OOP promotes reusability of code, reducing redundancy and errors.
+OOP makes it easier to update and maintain code.
+OOP supports large-scale software development by allowing complex systems to be built on top of simple, reusable objects.
