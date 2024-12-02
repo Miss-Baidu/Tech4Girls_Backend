@@ -47,9 +47,9 @@ Additionally, the project focuses on understanding how to establish relationship
 
 This submission includes the following files and directories:
 
-- **question1.sql**: Creates a database and populates a table with initial values.
-- **question2.sql**: Creates a new table and establishes a one-to-many relationship with the table from **question1.sql**.
-- **question3.sql**: Creates another table and defines a many-to-many relationship between the table from **question1.sql** and the table in this file.
+- question1.sql: Creates a database and populates a table with initial values.
+- question2.sql: Creates a new table and establishes a one-to-many relationship with the table from question1.sql.
+- question3.sql: Creates another table and defines a many-to-many relationship between the table from question1.sql and the table in this file.
 
 Objectives:
 Create a Database and Use it
@@ -61,7 +61,7 @@ Here is a rephrased, edited, and summarized version:
 ## Aspects
 
 ### Database Creation:
-- The **question1.sql** script creates a database if it doesn't already exist:
+- The question1.sql script creates a database if it doesn't already exist:
 ```bash
 CREATE DATABASE IF NOT EXISTS Tech4Girls_DB;
 ```
